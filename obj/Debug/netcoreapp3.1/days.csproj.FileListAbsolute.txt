@@ -1,0 +1,14 @@
+C:\Users\bissah\source\repos\days\bin\Debug\netcoreapp3.1\days.exe
+C:\Users\bissah\source\repos\days\bin\Debug\netcoreapp3.1\days.deps.json
+C:\Users\bissah\source\repos\days\bin\Debug\netcoreapp3.1\days.runtimeconfig.json
+C:\Users\bissah\source\repos\days\bin\Debug\netcoreapp3.1\days.runtimeconfig.dev.json
+C:\Users\bissah\source\repos\days\bin\Debug\netcoreapp3.1\days.dll
+C:\Users\bissah\source\repos\days\bin\Debug\netcoreapp3.1\days.pdb
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.AssemblyInfoInputs.cache
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.AssemblyInfo.cs
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.csproj.CoreCompileInputs.cache
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.dll
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.pdb
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.genruntimeconfig.cache
+C:\Users\bissah\source\repos\days\obj\Debug\netcoreapp3.1\days.csproj.AssemblyReference.cache
